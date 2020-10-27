@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import Post from './components/Post';
-import './App.css';
 import Switch from '@material-ui/core/Switch';
 import classNames from 'classnames';
+import './App.css';
 
 function App() {
   const [lightMode, setLightMode] = useState(false);
