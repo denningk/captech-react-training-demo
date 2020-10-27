@@ -14,6 +14,11 @@ header {
   margin-bottom: 2rem;
 }
 
+.App.light {
+  background-color: white;
+  color: black;
+}
+
 .posts {
   align-items: center;
   text-align: center;
