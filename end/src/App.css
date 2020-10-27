@@ -1,0 +1,46 @@
+h1,h2,h3,h4,h5,h6,p {
+  margin: 0;
+}
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 1rem;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+.posts {
+  align-items: center;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.posts--item {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 0 1rem 2rem;
+  width: 80%;
+}
+
+.posts--heading {
+  font-weight: bold;
+}
+
+.posts--subtitle {
+  margin-bottom: 1rem;
+  font-weight: normal;
+}
+
+.posts--summary {
+  text-align: left;
+  font-size: 16px;
+}
