@@ -1,0 +1,17 @@
+[
+    {
+        "title": "React vs Angular vs Vue in 2020",
+        "subtitle": "by Ram Ramkumar",
+        "summary": "Compare and contrast the three big frameworks! Our co-worker Ram will detail the pros and cons of each framework."
+    },
+    {
+        "title": "Static Site Generators",
+        "subtitle": "by Keith Denning",
+        "summary": "Learn all about the most popular static site generators! From Gatsby to Next.js, we'll cover every framework out there."
+    },
+    {
+        "title": "React Series Labs",
+        "subtitle": "by Collin Makohon and Andrew Evans",
+        "summary": "Learn all about hooks and redux in React!"
+    }
+]
