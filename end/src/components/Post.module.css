@@ -1,0 +1,27 @@
+.item {
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 0 1rem 2rem;
+    width: 80%;
+}
+
+.light {
+    background-color:  #282c34;
+    color: white;
+}
+
+.heading {
+font-weight: bold;
+}
+
+.subtitle {
+margin-bottom: 1rem;
+font-weight: normal;
+}
+
+.summary {
+text-align: left;
+font-size: 16px;
+}

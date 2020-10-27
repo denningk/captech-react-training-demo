@@ -10,6 +10,11 @@ h1,h2,h3,h4,h5,h6,p {
   padding: 1rem;
 }
 
+.App.light {
+  background-color: white;
+  color: black;
+}
+
 header {
   margin-bottom: 2rem;
 }
@@ -20,27 +25,4 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
-
-.posts--item {
-  background-color: white;
-  color: black;
-  padding: 1rem;
-  border-radius: 8px;
-  margin: 0 1rem 2rem;
-  width: 80%;
-}
-
-.posts--heading {
-  font-weight: bold;
-}
-
-.posts--subtitle {
-  margin-bottom: 1rem;
-  font-weight: normal;
-}
-
-.posts--summary {
-  text-align: left;
-  font-size: 16px;
 }

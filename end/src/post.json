@@ -11,7 +11,7 @@
     },
     {
         "title": "React Series Labs",
-        "subtitle": "by Collin Makohon and Andrew Evans",
-        "summary": "Learn all about hooks and redux in React!"
+        "subtitle": "by Collin Makohon",
+        "summary": "Learn all about hooks in React!"
     }
 ]
