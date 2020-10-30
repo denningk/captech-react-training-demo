@@ -27,6 +27,11 @@ header {
   justify-content: center;
 }
 
+.posts--item.light {
+    background-color:  #282c34;
+    color: white;
+}
+
 .posts--item {
   background-color: white;
   color: black;
