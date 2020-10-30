@@ -13,8 +13,6 @@ function App() {
           <h5 className="posts--subtitle">by Ram Ramkumar</h5>
           <p className="posts--summary">Compare and contrast the three big frameworks! Our co-worker Ram will detail the pros and cons of each framework.</p>
         </div>
-      </div>
-      <div className="posts">
         <div className="posts--item">
           <h3 className="posts--heading">Static Site Generators</h3>
           <h5 className="posts--subtitle">by Keith Denning</h5>
